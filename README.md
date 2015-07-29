@@ -1,2 +1,3 @@
-# tips
-Tips and tricks.
+# Tips and trick
+
+Share everything you've learnt so far.
