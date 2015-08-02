@@ -49,6 +49,7 @@ Blue: `45`.
 
 `cc`, `80` and `45` are hexidecimal numbers. Hexidecimal numbers:
 `0` - `0`
+
 `1` - `1`
 `2` - `2`
 `3` - `3`
