@@ -43,9 +43,9 @@ p {
 }
 ```
 
-Red: `cc`.
-Green: `80`.
-Blue: `45`.
+Red: `cc`<br />
+Green: `80`<br />
+Blue: `45`<br />
 
 `cc`, `80` and `45` are hexidecimal numbers.
 
