@@ -47,7 +47,7 @@ Red: `cc`.
 Green: `80`.
 Blue: `45`.
 
-`cc`, `80` and `45` are hexidecimal numbers. Hexidecimal numbers:
+`cc`, `80` and `45` are hexidecimal numbers.
 
 | Hexadecimal number | Decimal number |
 |-----|-----|
