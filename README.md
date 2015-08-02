@@ -1,3 +1,3 @@
 # Tips and trick
 
-Share everything you've learnt so far.
+1. [Colour](./colour.md)
