@@ -7,11 +7,11 @@ In CSS you can specify colour using:
 3. RGB numeric value, e.g.: `rgb(105, 98, 44)`.
 4. HEX values.
 
-## Colour names
+### Colour names
 
 CSS supports 147 colour names. List of supported colour names: http://colours.neilorangepeel.com
 
-## RGB percentage value
+### RGB percentage value
 
 In CSS most colours can be specified as a mix of 3 colours: red, green and blue. Here is an example of CSS rule:
 
@@ -23,7 +23,7 @@ p {
 
 When we see a colour what we really see is a light of a certain colour. The stronger the light - the brigther the colour. In the above example `80%` of the red will give us brighter red, while `27%` of the blue will give darker blue.
 
-## RGB numeric value
+### RGB numeric value
 
 You can also use numeric values between 0 to 255:
 
