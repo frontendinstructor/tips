@@ -17,7 +17,7 @@ In CSS most colours can be specified as a mix of 3 colours: red, green and blue.
 
 ```css
 p {
-	colour: rgb(80%, 50%, 27%);
+	color: rgb(80%, 50%, 27%);
 }
 ```
 
@@ -29,13 +29,19 @@ You can also use numeric values between 0 to 255:
 
 ```css
 p {
-	colour: rgb(204, 128, 69);
+	color: rgb(204, 128, 69);
 }
 ```
 
 ### HEX value
 
-Example: `#cc8045`.
+Example:
+
+```css
+p {
+	color: #cc8045;
+}
+```
 
 Red: `cc`.
 Green: `80`.
@@ -64,7 +70,7 @@ To convert `#cc8045` to decimal numbers (we use them in our daily life) do the f
 1. Convert the first `c` to `12`. Then multiply it by `16`: `12 * 16 = 192`.
 2. Convert the second `c` to `12`. Then add `12` to `192`: `12 + 192 = 204`.
 
-That's it: `204` is a numeric value for red.
+That's it: `204` is a numeric value for red. Now repeat for green and blue.
 
 
 
